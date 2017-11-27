@@ -1,0 +1,8 @@
+public class HelloJavinhaComErro
+	integer x; 
+	integer y;
+	double media;
+
+	media = x + y / 2.;
+	
+end
