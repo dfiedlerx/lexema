@@ -1,4 +1,4 @@
-package lexer;
+package lexeraluno;
 
 import java.util.HashMap;
 
@@ -48,8 +48,9 @@ public class TS {
          	return token;
          }
       }
+        
       return null;
-	}
+   }
     
    @Override
    public String toString() {

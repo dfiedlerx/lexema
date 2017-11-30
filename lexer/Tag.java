@@ -1,4 +1,4 @@
-package lexer;
+package lexeraluno;
 
 public enum Tag {
     
@@ -17,7 +17,7 @@ public enum Tag {
     RELOP_MINUS,
     RELOP_MULT,
     RELOP_DIV,
-    
+
     //Simbolos
     SMB_OP,
     SMB_CP,
@@ -29,10 +29,15 @@ public enum Tag {
     //numeros
     INTEGER,
     DOUBLE,
-    
+   
     //strings
     STRING,
     
     // palavra reservada
-    KW;
+    KW,
+    
+    //Comentários
+    ONE_LINE_COMMENT,
+    MULTIPLES_LINES_COMMENT;
+    
 }

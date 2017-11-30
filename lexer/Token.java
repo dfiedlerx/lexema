@@ -1,4 +1,4 @@
-package lexer;
+package lexeraluno;
 
 public class Token {
     

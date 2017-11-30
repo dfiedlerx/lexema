@@ -1,9 +1,26 @@
 public class HelloJavinha
-	integer data_entrega; 
+       	integer data_entrega; 
 	string msgm;
 
 	data_entrega = 29 * 11 * 17;
 	msgm = "Bom trabalho!";
 
 	SystemOutDispln("Caros alunos, O TP ja esta disponivel.");
+
+        //Isso e um comentario de uma linha //fjskjdfhksjdf
+
+        /* 
+        *   
+        * COMENTARIO
+        * BIXAO
+        * MULTILINHA
+        * MEU
+        * IRMAO
+        * NaO
+        * DEU
+        * ERRO
+        * NAO
+        *
+        */
+
 end
